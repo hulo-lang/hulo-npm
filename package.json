@@ -1,6 +1,6 @@
 {
     "name": "hulo-lang",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Hulo programming language compiler and runtime",
     "main": "dist/index.js",
     "bin": {
